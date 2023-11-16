@@ -11,8 +11,9 @@ const Contact = () => {
       </p>
       <h2 className='font-titleFont text-5xl font-semibold'>Get In Touch</h2>
       <p className='max-w-[600px] text-center text-textDark'>
-        Although I&apos;m not currently looing for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
+        {/* Although I&apos;m not currently looing for any new opportunities, my inbox is always open.
+        Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you! */}
+        My inbox is always open. Please feel free to reach out for any reason, and I&apos;ll try my best to get back to you!
       </p>
       <a href="mailto:andrewjrose99@gmail.com">
         <button className='w-40 h-14 border border-textGreen mt-6 font-titleFont text-sm text-textGreen tracking-wider rounded-md hover:bg-hoverColor duration-300'>Say Hello</button>
