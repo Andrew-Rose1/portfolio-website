@@ -1,0 +1,36 @@
+{
+  "banner": {
+    "fullName": "Andrew Rose",
+    "header": {
+      "v1": "I build things for the web.",
+      "v2": "Software Engineer with a knack for innovation.",
+      "v3": "Welcome to my digital world.",
+      "v4": "I'm passionate about creating digital experiences" 
+    },
+    "secondary": {
+      "v1": "I'm a software developer with a passion for crafting remarkable digital experiences. I specialize in building robust and user-friendly applications that make a difference. Explore my work to see how I turn ideas into reality.",
+      "v2": "",
+      "v3": ""
+    }
+  },
+  "projects": {
+    "featured_1": {
+      "link": "",
+      "title": "",
+      "description": "",
+      "technologies": []
+    },
+    "featured_2": {
+      "link": "",
+      "title": "",
+      "description": "",
+      "technologies": []
+    },
+    "featured_3": {
+      "link": "",
+      "title": "",
+      "description": "",
+      "technologies": []
+    }
+  }
+}
