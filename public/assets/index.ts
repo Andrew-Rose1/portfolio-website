@@ -1,5 +1,4 @@
 import favicon from "../favicon.ico";
-import profile from "./images/sampleprofile.png";
 import expenseTrackerImage from "./images/expense-tracker-spotlight.png";
 import ticketDisplayImage from "./images/ticket-display.jpeg";
 import numberGuessingImage from "./images/number-guessing.png";
@@ -11,7 +10,6 @@ import andrewRoseProfile from"./images/andrew-rose-profile.jpeg";
 
 export {
   favicon,
-  profile,
   expenseTrackerImage,
   ticketDisplayImage,
   numberGuessingImage,
