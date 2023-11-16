@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import SectionTitle from "./SectionTitle";
-import { expenseTrackerImage, idleGameImage, numberGuessingImage, profile, ticketDisplayImage } from "@/public/assets";
+import { expenseTrackerImage, idleGameImage, ticketDisplayImage } from "@/public/assets";
 import { AiOutlineYoutube } from "react-icons/ai";
 import { TbBrandGithub } from "react-icons/tb";
 import { RxOpenInNewWindow } from "react-icons/rx";
