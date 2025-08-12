@@ -17,7 +17,7 @@ const About = () => {
             delving into courses such as OOP Design, Secure Software Development, Database Systems, Data Structures, and Analysis of Algorithms.
           </p>
           <p>
-            Currently, I&apos;m working as a Junior Software Developer at Saturna Capital. Here, I am contributing to the backend development 
+            Currently, I&apos;m working as a Software Developer at Saturna Capital. Here, I am contributing to the backend development 
             of game-changing financial service products. I actively utilize modern technologies such as <span className="text-textGreen">NestJS</span>, <span className="text-textGreen">PostgreSQL</span>, <span className="text-textGreen">React</span>, <span className="text-textGreen">Typescript</span>, and <span className="text-textGreen">Hasura</span>.
             In my spare time, I am working on a 2D Metroidvania game using <span className="text-textGreen">Unity</span> and <span className="text-textGreen">C#</span>.
           </p>
